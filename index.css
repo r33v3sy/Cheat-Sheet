@@ -1,0 +1,56 @@
+header {
+    font-family: Helvetica;
+    font-size: 24px;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 18px;
+    background-color: darkgrey;
+}
+
+h3 {
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+table {
+    font-family: Helvetica;
+    font-size: 12px;
+    width: 90%; 
+    align-self: ;       
+}
+
+thead {
+    background-color: orange;
+    text-transform: uppercase;
+    height: 50px;
+    
+}
+
+.tag {
+    width: 10%;
+    background-color: lightgrey;     
+} 
+
+#tag1 {
+    font-family: monospace
+}
+
+.element {
+    width: 15%;
+    background-color: lightgrey;
+}
+
+.description {
+    width: 40%;
+    background-color: lightgrey;
+}
+
+td {
+    height: 50px;
+}
+
+th {
+    height: 50px;
+}
